@@ -22,4 +22,5 @@ TODO:
 - Potentially fix known issues.
 - If desired, pipe into nmapAutomater for nonbrittle hosts.
 - UDP?
+- More than top 1000 ports?
 
