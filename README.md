@@ -21,4 +21,5 @@ TODO:
 - Add speed decrease option for known brittle subnets.
 - Potentially fix known issues.
 - If desired, pipe into nmapAutomater for nonbrittle hosts.
+- UDP?
 
