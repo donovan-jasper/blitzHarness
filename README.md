@@ -7,8 +7,8 @@ This script runs optimizes netowrk discovery by doing 4 different types of sweep
 
 USAGE:
 
-./parallelDiscovery.sh
-./parallelPorts.sh
+./parallelDiscovery.sh \
+./parallelPorts.sh \
 ./brittleDepth.sh
 
 KNOWN ISSUES:
